@@ -17,7 +17,7 @@
     "auth",
     "indentity"
   ],
-  "author": "Octoblu Inc.",
+  "author": "Octoblu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/octoblu/passport-intercom/issues"
